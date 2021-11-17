@@ -34,8 +34,8 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Final Product
 
-!["Screenshot of adding item to cart"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Validation-while-booking-new-appointment.png?raw=true)
+!["Screenshot of adding item to cart"](https://github.com/AvantikaTheLearner/jungle-rails/blob/master/docs/Item_added_to_cart.png?raw=true)
 
-!["Screenshot of item being Sold Out"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Available-slots-for-booking.png?raw=true)
+!["Screenshot of item being Sold Out"](https://github.com/AvantikaTheLearner/jungle-rails/blob/master/docs/Sold_out.png?raw=true)
 
-!["Screenshot of order details page after placing the order"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Deleting-appointment.png?raw=true)
+!["Screenshot of order details page after placing the order"](https://github.com/AvantikaTheLearner/jungle-rails/blob/master/docs/Placed_order_details.png?raw=true)
