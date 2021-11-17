@@ -1,6 +1,6 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini e-commerce application built with Ruby on Rails 4.2 where users can buy the products and products can be filtered as well based on Category.
 
 ## Additional Steps for Apple M1 Machines
 
@@ -31,3 +31,11 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+## Final Product
+
+!["Screenshot of adding item to cart"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Validation-while-booking-new-appointment.png?raw=true)
+
+!["Screenshot of item being Sold Out"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Available-slots-for-booking.png?raw=true)
+
+!["Screenshot of order details page after placing the order"](https://github.com/AvantikaTheLearner/scheduler/blob/master/docs/Deleting-appointment.png?raw=true)
